@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of stellio/flarum-ext-subscriptions-ru.** Not for installation: use [Packagist](https://packagist.org/packages/stellio/flarum-ext-subscriptions-ru) or the [upstream repository](https://github.com/stellio/flarum-ext-subscriptions-ru).
 
-**0** versions archived · Latest: [`v0.1.0-beta.6`](https://github.com/flarchive/stellio-flarum-ext-subscriptions-ru/tree/archive/v0.1.0-beta.6) · License: `MIT` · Flarum: `^0.1.0-beta.6`
+**4** versions archived · Latest: [`v0.1.0-beta.6`](https://github.com/flarchive/stellio-flarum-ext-subscriptions-ru/tree/archive/v0.1.0-beta.6) · License: `MIT` · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta.3` | 2015-11-02 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/stellio-flarum-ext-subscriptions-ru/tree/archive/v0.1.0-beta.3) |
+| `v0.1.0-beta.4` | 2015-11-05 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/stellio-flarum-ext-subscriptions-ru/tree/archive/v0.1.0-beta.4) |
+| `v0.1.0-beta.5` | 2016-03-29 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/stellio-flarum-ext-subscriptions-ru/tree/archive/v0.1.0-beta.5) |
+| `v0.1.0-beta.6` | 2016-10-19 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/stellio-flarum-ext-subscriptions-ru/tree/archive/v0.1.0-beta.6) |
 
 Catalog entry: [packages/stellio-flarum-ext-subscriptions-ru.json](https://github.com/flarchive/archive-index/blob/main/packages/stellio-flarum-ext-subscriptions-ru.json)
 
